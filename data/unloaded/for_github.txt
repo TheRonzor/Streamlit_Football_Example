@@ -1,0 +1,1 @@
+Since github won't grab empty directories, and I didn't want to write more code before bed :-)
