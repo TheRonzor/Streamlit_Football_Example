@@ -16,9 +16,7 @@ class FBField:
         self.add_yard_markers()
         return
     
-    def build_field(self) -> (plt.figure, 
-                              plt.axes
-                              ):
+    def build_field(self):
         '''
         Draw an empty field
         '''
