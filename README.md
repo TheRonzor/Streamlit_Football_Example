@@ -5,7 +5,7 @@ To run the app from the command line:
 ```python
 streamlit run main.py
 ```
-_Note that I did not include any pipenv/virtualenv for this, so just ```pip install``` any libraries you get errors about not having (most likely, streamlit)
+_Note that I did not include any pipenv/virtualenv for this, so just ```pip install``` any libraries you get errors about not having (most likely, streamlit)_
 
 ### Other files and directories:
 
