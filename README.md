@@ -1,5 +1,7 @@
 # Streamlit_Football_Example
 
+This repo is public, but was only intended for a couple folks. If you landed here and don't know why, have fun, but don't ask me about it!
+
 To run the app from the command line:
 
 ```python
